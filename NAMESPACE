@@ -1,8 +1,0 @@
-#Cointegration.R
-export(EstimateParameters)
-export(EstimateParametersHistorically)
-export(IsStationary)
-#Trading.R
-export(Simple)
-#PairTrading.R
-export(Return)

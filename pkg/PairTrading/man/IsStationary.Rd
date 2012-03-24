@@ -4,7 +4,7 @@
 Check the stationarity of time series (spread) 
 }
 \description{
-Check time series stationarity by Phillips-Perron Test for Unit Roots and Augmented Dickey-Fuller Test
+Check the stationarity of time series by Phillips-Perron Test for Unit Roots and Augmented Dickey-Fuller Test.
 }
 \usage{
 IsStationary(spread, threshold) 
